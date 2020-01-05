@@ -1,0 +1,33 @@
+ ::::::::  ::::::::: :::::::::: :::::::::::  ::::::::  :::    ::: :::   :::     :::                   ::::::::::: ::::::::::  ::::::::  :::    ::: 
+:+:    :+:      :+:  :+:            :+:     :+:    :+: :+:    :+: :+:   :+:   :+: :+:                     :+:     :+:        :+:    :+: :+:    :+: 
++:+            +:+   +:+            +:+     +:+        +:+    +:+  +:+ +:+   +:+   +:+                    +:+     +:+        +:+        +:+    +:+ 
++#+           +#+    +#++:++#       +#+     +#++:++#++ +#+    +:+   +#++:   +#++:++#++: +#++:++#++:++     +#+     +#++:++#   +#+        +#++:++#++ 
++#+          +#+     +#+            +#+            +#+ +#+    +#+    +#+    +#+     +#+                   +#+     +#+        +#+        +#+    +#+ 
+#+#    #+#  #+#      #+#            #+#     #+#    #+# #+#    #+#    #+#    #+#     #+#                   #+#     #+#        #+#    #+# #+#    #+# 
+ ########  ######### ##########     ###      ########   ########     ###    ###     ###                   ###     ##########  ########  ###    ### 
+@email: czetsuya@gmail.com
+
+-----------------------------------------------------------------
+
+Broodcamp Services
+	-Consultant
+		-Software/Systems Architecture
+			-Monolithic
+			-Microservices
+		-Database Modelling
+		-Continuous Deployment (Docker, Kubernetes)
+		-Amazon Web Services
+		-Scrum Master
+		-Startup Process and Development
+	-Development
+		-Custom Software
+			-Catalog and Sellout Management System
+			-Marketplace
+		-API Development and Integration
+		-E-commerce Setup and Maintenance (Wordpress)
+	-Team Development and Management
+		-I can search and build a team for you in the Philippines
+		-Software Development
+		-Virtual Assistant
+
+-----------------------------------------------------------------
