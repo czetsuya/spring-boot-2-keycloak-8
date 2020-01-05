@@ -25,6 +25,7 @@ keycloak.configurationFile = classpath:keycloak.json
 ## Users
 
 Role=Promoter, sarah / kerrigan
+
 Role=Supervisor, jim / raynor
 
 ## Authors
