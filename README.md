@@ -11,7 +11,7 @@ A demo project created to demonstrate how a Spring boot project can be secured u
 - Keycloak server 8.0.1
 
 *Starting with Keycloak version 7.0.0, the Keycloak team has introduced the notion of feature and uploading the json file has become one of them. 
-Sadly, it is disabled by default. To enable realm, upload run Keycloak with the given parameter:
+Sadly, it is disabled by default. To enable realm upload, run Keycloak with the given parameter:
 
 ```
 standalone.bat -Dkeycloak.profile.feature.upload_scripts=enabled
